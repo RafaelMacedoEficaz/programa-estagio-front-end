@@ -4,7 +4,9 @@ Este projeto apresenta como pode ser realizado o teste do programa de estágio d
 
 Para rodar o projeto, você pode fazer o download do projeto que esta compactado [https://codeload.github.com/RafaelMacedoEficaz/programa-estagio-front-end/zip/main] ou clonar o repositório em seu computador usando o comando
 
+```
 git clone https://github.com/RafaelMacedoEficaz/programa-estagio-front-end.git
+```
 
 Para rodar o projeto, apenas abra o arquivo index.html no seu navergador.
 
